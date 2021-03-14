@@ -1,14 +1,14 @@
 ## JORDAN TUINMAN
 ### Full Stack Developer
-Languages: English (native), Japanese (fluent)
+Languages: English (native), Japanese (fluent)   
 Email: jojotuijo@gmail.com
 
-### About me	
+## About me	
 
 I am a full stack developer with a passion for making software that assists people in improving their lives, that looks great and is intuitive to use. I first entered the tech industry when I moved to Tokyo, working for Microsoft in networking and data centre operations. There I learned to love learning and picked up an interest in the tooling and web apps that we used. Since moving back to New Zealand, I have steered into software development to fulfil my passion for creating useful tools and helping people.
 I am searching for a role where I can develop myself and learn new skills, and grow to become an integral part of a team by utilising my past experiences and ability to work with people from all sorts of unique backgrounds and cultures. 
 
-#### Technologies
+## Technologies
 *	React
 *	JavaScript
 *	Redux
@@ -23,9 +23,9 @@ I am searching for a role where I can develop myself and learn new skills, and g
 *	Git & GitHub
 *	Zsh
  
-### Experience
+## Experience
 
-#### Full Stack Developer – Student
+### Full Stack Developer – Student
 Enspiral Dev Academy | Remote - NZ
 December 2020 – March 2021
 
@@ -36,7 +36,7 @@ A 15-week full immersion software development bootcamp, that mimics a real-life 
 *	Excelled in group projects, especially in our final project where we developed an app within seven days. The project we chose was based on one of my ideas and so I took on the Product Owner role, as well as a developer role.
 *	My team created an easy-to-use habit formation platform called Positively, that seamlessly renders components using React and Redux. We made use of the whole tech stack we had learned during the bootcamp, as well as new tech such as Passport.js to include authorisation. [link to project]
 
-#### Audio-Visual Technician
+### Audio-Visual Technician
 Futureworks | NZ
 October 2019 – October 2020
 
@@ -47,7 +47,7 @@ Based at the University of Canterbury, this role encompassed installing and supp
 *	Increased and reinforced my ability to explain technical concepts and information to non-tech people.
 *	Created new documentation and processes to better manage project information, inventory and incoming goods. 
 
-#### Site Services Technician
+### Site Services Technician
 Microsoft | Japan
 June 2017 – June 2019
 
@@ -60,7 +60,7 @@ A data centre role based in Tokyo, where I transitioned to being a senior techni
 *	Created ‘cheat sheets’ for collaborative information sharing, and MOP (Method of Practice) documents.
 *	At Microsoft in 2018, successfully implemented a new workplace strategy to increase efficiency and productivity, along with my manager.  
 
-#### Site Services Technician
+### Site Services Technician
 Atos | Japan
 August 2016 – June 2017
 
@@ -69,7 +69,7 @@ Employed to work at Microsoft data centres in the Site Services team for multipl
 *	Excelled in organisation and prioritisation – I had to learn how to quickly escalate issues and plan out maintenances with multiple parties involved. 
 *	Learned how to work with internal and external teams across different time zones and languages. 
 
-Network Service Desk Operator
+### Network Service Desk Operator
 Earth Technology | Japan
 December 2015 – August 2016
 
@@ -78,7 +78,7 @@ Dispatched to work at NTT Communications in a networks service desk, providing o
 *	Quickly developed my networking knowledge within 4 weeks in this role to be able to troubleshoot network issues and support customers – this role was my entry point to becoming an IT professional. 
 *	All work, training and documentation being in my second language taught me that I can learn to understand anything that I put my mind to.
 
-### Education
+## Education
 
 Enspiral Dev Academy | November 2020 – March 2021
 Web Development Bootcamp
@@ -89,7 +89,7 @@ Bachelor of Arts in Japanese language and culture, and East Asian Studies.
 University of Tokyo | 2013 – 2014
 AIKOM program graduate in Japanese language and culture, and East Asian Studies.
 
-### Qualifications
+## Qualifications
 
 *	Q-SYS Level 1 Audio design – March 2020
 *	EPI Data Centre Management Foundations – May 2019
@@ -98,13 +98,13 @@ AIKOM program graduate in Japanese language and culture, and East Asian Studies.
 *	MTA: Networking Fundamentals – April 2019
 *	Bachelor of Arts in Japanese – 2015
 
-### Interests
+## Interests
 *	Art
 *	Brazilian Jiu Jitsu
 *	Drawing
 *	Japan
 *	Painting
 
-### Referees
+## Referees
 Available upon request
 
