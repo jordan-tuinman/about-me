@@ -18,7 +18,7 @@ Also, I'm fluent in Japanese so I enjoy reading and watching crazy Japanese game
 
 ## CV
 
-Take a gander [here]()!
+Take a gander [here](./cv.md)!
 
 ## Technologies
 
