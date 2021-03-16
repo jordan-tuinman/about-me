@@ -12,23 +12,38 @@ or
 ##### Take a gander at my CV [here](./cv.md)!
 
 ## Technologies
-
-*	React
-*	JavaScript
-*	Redux
-*	Redux Thunk
-*	SQLite3
-*	Knex
-*	Express
-*	RESTful APIs
-*	Superagent
-*	Node
-*	Jest
-*	HTML & CSS
-*	Git & GitHub
-*	Zsh
+<table border="0">
+ <tr>
+    <td>React</td>
+    <td>JavaScript</td>
+ </tr>
+ <tr>
+    <td>Redux</td>
+    <td>Redux Thunk</td>
+ </tr>
+ <tr>
+    <td>SQLite3</td>
+    <td>Knex</td>
+ </tr>
+ <tr>
+    <td>Express</td>
+    <td>RESTful APIs</td>
+ </tr>
+ <tr>
+    <td>Superagent</td>
+    <td>Node</td>
+ </tr>
+ <tr>
+    <td>Jest</td>
+    <td>Git</td>
+ </tr>
+ <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+ </tr>
+</table>
 
 ## Get in touch! 🤙
 
-[LinkedIn](https://www.linkedin.com/in/jordan-tuinman/)       
-__Email:__ jojotuijo@gmail.com   
+* [LinkedIn](https://www.linkedin.com/in/jordan-tuinman/)       
+* __Email:__ jojotuijo@gmail.com   
