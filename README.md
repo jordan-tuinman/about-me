@@ -7,7 +7,7 @@ Also, I'm fluent in Japanese so I enjoy reading and watching crazy Japanese game
 
 Currently I'm searching for a role where I can learn new skills and become a valuable member of a team, utilising my past experiences and ability to work with people from all sorts of unique backgrounds and cultures. 
 
-##### More About me [here]() ...
+##### More about me [here](./about-me.md) ...
 or
 ##### Take a gander at my CV [here](./cv.md)!
 
