@@ -10,8 +10,8 @@ _or_
 ##### Take a gander at my CV [here](./cv.md)!
 
 ## 🌱Currently I'm learning ...
-* React Native
-* TypeScript
+* Python
+* Django
 
 ## Get in touch! 🤙
 
